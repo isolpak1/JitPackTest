@@ -1,6 +1,6 @@
 # JitPackTest
 
-[![Release](https://img.shields.io/github/release/jitpack/android-example.svg?label=Jitpack)](https://jitpack.io/#isolpak1/JitPackTest)
+[![Release](https://img.shields.io/github/release/isolpak1/JitPackTest.svg?label=Jitpack)](https://jitpack.io/#isolpak1/JitPackTest)
 
 
 
